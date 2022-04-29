@@ -291,7 +291,7 @@ if (page.id == 'contacto'){
 // proximamente - countdown 
 
 if (page.id == 'proximamente'){
-	let contadorDate = new Date('Apr 1, 2022 00:00:00').getTime();
+	let contadorDate = new Date('Apr 1, 2023 00:00:00').getTime();
 	function contadorDown(){
 	    let now = new Date().getTime()
 	    let gap = '' 
